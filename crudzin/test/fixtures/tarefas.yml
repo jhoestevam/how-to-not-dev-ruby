@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  descricao: MyString
+  inicio: 2018-02-17
+  previsao: 2018-02-17
+  status: MyString
+
+two:
+  nome: MyString
+  descricao: MyString
+  inicio: 2018-02-17
+  previsao: 2018-02-17
+  status: MyString
